@@ -40,7 +40,7 @@ jobs:
             -H "Authorization: Basic ${{ secrets.API_AUTH_TOKEN }}" \
             -H "Content-Type: application/json" \
             -d '{"commit_sha":"'"$COMMIT_SHA"'", "pull_number":"'"$PULL_NUMBER"'", "source_branch":"'"$SOURCE_BRANCH"'"}' \
-            https://5529-14-140-185-199.ngrok-free.app/external/v1/validate/course/content)
+            https://5529-14-140-185-199.ngrok-free.app/api/v1/validate/course/content)
 
           echo "HTTP status code: $response"
 
