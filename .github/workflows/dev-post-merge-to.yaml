@@ -31,7 +31,7 @@ jobs:
             -H "Authorization: Basic ${{ secrets.DEV_API_AUTH_TOKEN }}" \
             -H "Content-Type: application/json" \
             -d '{"pull_number":"'"$PULL_NUMBER"'", "merge_sha":"'"$MERGE_SHA"'"}' \
-            https://5529-14-140-185-199.ngrok-free.app/api/v1/upsert/course/content)
+            https://sandbox.delta.soulhq.ai/api/v1/upsert/course/content)
 
           echo "HTTP status code: $response"
 
