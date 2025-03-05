@@ -30,4 +30,4 @@ This makes it perfect for tasks involving reasoning, logic, or multi-step calcul
 ❌ What is the theme of "Moby Dick"?
 
 ```
-<img height="467" width="728" src="${PROMPTING_101_10}" />
+<img height="467" width="728" src="${PRIVATE_PROMPTING_101_10}" />
