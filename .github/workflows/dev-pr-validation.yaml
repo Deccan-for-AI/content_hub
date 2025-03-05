@@ -37,7 +37,7 @@ jobs:
 
           response=$(curl -s -o /tmp/response.json -w '%{http_code}' \
             -X POST \
-            -H "Authorization: Basic ${{ secrets.API_AUTH_TOKEN }}" \
+            -H "Authorization: Basic ${{ secrets.DEV_API_AUTH_TOKEN }}" \
             -H "Content-Type: application/json" \
             -d '{"commit_sha":"'"$COMMIT_SHA"'", "pull_number":"'"$PULL_NUMBER"'", "source_branch":"'"$SOURCE_BRANCH"'"}' \
             https://5529-14-140-185-199.ngrok-free.app/api/v1/validate/course/content)
