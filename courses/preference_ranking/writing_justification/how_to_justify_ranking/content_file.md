@@ -2,7 +2,7 @@
 
 A good justification is **thorough yet concise**, consistent with the ranking, and helps in improving the model. Below are specific guidelines to write a strong justification.
 
-## Justification Guidelines here as it is
+## Justification Guidelines here as it is doing
 
 | **Guideline**                              | **Description**                                                                                                                                                                                                                                   |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
