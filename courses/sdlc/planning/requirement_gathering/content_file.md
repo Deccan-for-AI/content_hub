@@ -8,7 +8,7 @@
 * Surveys & Questionnaires
 * Document analysis
 
-🎥 [**LINK TO Requirement Gathering**]($INTERNAL_TOPIC_LINK)
+🎥 [**LINK TO Requirement Gathering**](${INTERNAL_TOPIC_LINK})
 
 ```tsx
 export default function App() {
