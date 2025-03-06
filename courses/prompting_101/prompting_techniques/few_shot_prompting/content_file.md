@@ -1,5 +1,9 @@
 # Getting Better Responses from LLMs with Prompting Techniques
 
+<video width="100%" height="100%" controls>
+    <source src="${PRIVATE_PROMPTING_101_VIDEO_3}" type="video/mp4">
+</video>
+
 Think of prompting as giving instructions. If one way doesn’t work, you try another—just like explaining directions to a friend using landmarks or a map. Language models work similarly. Different tasks need different prompting techniques to get the best results.
 
 Sometimes, showing examples helps (**Few Shot method**). For more complex reasoning, breaking down tasks step-by-step (**Chain of Thought method**) or exploring multiple possibilities works better (**Tree of Thought method**).

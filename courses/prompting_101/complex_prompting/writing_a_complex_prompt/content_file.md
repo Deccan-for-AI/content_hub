@@ -1,5 +1,9 @@
 # Challenging LLMs with Complex Prompting
 
+<video width="100%" height="100%" controls>
+    <source src="${PRIVATE_PROMPTING_101_VIDEO_4}" type="video/mp4">
+</video>
+
 ## What is a Complex Prompt?
 
 A complex prompt is designed to challenge a model's capabilities by testing its performance across multiple dimensions and explore a model's limitations. 

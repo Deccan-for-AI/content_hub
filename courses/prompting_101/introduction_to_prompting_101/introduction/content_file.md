@@ -1,5 +1,9 @@
 # Introduction to Prompting 101
 
+<video width="100%" height="100%" controls>
+    <source src="${PRIVATE_PROMPTING_101_VIDEO_1}" type="video/mp4">
+</video>
+
 ## Does your prompt affect your response?
 
 Have you ever wondered how AI chatbots, virtual assistants, and search engines give you the answers you need? It all comes down to something simple but powerful—**prompts**.
