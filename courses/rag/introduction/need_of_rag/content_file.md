@@ -6,4 +6,4 @@ Therefore, models trained in retrieving information provide high-quality respons
 
 Take a short quiz below and test your current understanding of RAG::
 
-<a href="https://app.soulhq.ai/" style="padding: 10px; background-color: #364BC9; color: white; text-decoration: none; border-radius: 5px;"> Take the Quiz </a>
+<a href="https://app.soulhq.ai/" style="padding: 10px; background-color: #364BC9; color: white; text-decoration: none; border-radius: 5px;"> Take the Quiz. </a>
