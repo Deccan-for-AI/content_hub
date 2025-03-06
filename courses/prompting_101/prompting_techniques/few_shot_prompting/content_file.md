@@ -1,6 +1,7 @@
 # Getting Better Responses from LLMs with Prompting Techniques
 
-<iframe width="100%" height="100%" src="${PRIVATE_PROMPTING_101_VIDEO_3}" frameborder="0" allowfullscreen />
+  <iframe src="${PRIVATE_PROMPTING_101_VIDEO_3}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" />
+</div>
 
 Think of prompting as giving instructions. If one way doesn’t work, you try another—just like explaining directions to a friend using landmarks or a map. Language models work similarly. Different tasks need different prompting techniques to get the best results.
 
