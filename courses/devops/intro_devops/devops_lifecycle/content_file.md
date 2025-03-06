@@ -14,16 +14,3 @@ graph TD;
     G --> H[Monitor]
     H --> A
 ```
-
-<br>
-<img style="width:100%" src="{$PUBLIC_IMAGE_LINK}"/>
-
-<br>
-<video width="640" height="360" controls>
-  <source src="{$PUBLIC_VIDEO_LINK}" type="video/mp4">
-</video>
-
-<br>
-<audio controls>
-  <source src="{$PUBLIC_AUDIO_LINK}" type="audio/mpeg">
-</audio>
