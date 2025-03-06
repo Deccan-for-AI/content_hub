@@ -1,8 +1,6 @@
 # Challenging LLMs with Complex Prompting
 
-<video width="100%" height="100%" controls>
-    <source src="${PRIVATE_PROMPTING_101_VIDEO_4}" type="video/mp4">
-</video>
+<iframe width="100%" height="100%" src="${PRIVATE_PROMPTING_101_VIDEO_4}" frameborder="0" allowfullscreen />
 
 ## What is a Complex Prompt?
 
