@@ -11,4 +11,4 @@ Grasping the core information within the document is the foundational step (Step
 
 We’ll use the UNICEF Annual Report 2023 as our source of truth.
 
-For this example, we’ll take the important sections to be *‘Part 1 and Part 2’* to understand the major goals and any changes that helped achieve them.
+For this example, we’ll take the important sections to be *‘Part 1 and Part 2’* to understand the major goals and any changes that helped achieve them
