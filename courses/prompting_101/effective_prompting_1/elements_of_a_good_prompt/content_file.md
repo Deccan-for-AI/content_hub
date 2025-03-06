@@ -1,5 +1,9 @@
 # Getting Better Responses from LLMs with Effective Prompting 
 
+<video width="100%" height="100%" controls>
+    <source src="${PRIVATE_PROMPTING_101_VIDEO_2}" type="video/mp4">
+</video>
+
 ## Elements that turn a generic prompt into an effective one 
 
 <img height="392" width="602" src="${PRIVATE_PROMPTING_101_3}" />
