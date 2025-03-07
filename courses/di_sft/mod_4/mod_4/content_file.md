@@ -1,6 +1,12 @@
 # Writing Effective DI Responses
 
+<<<<<<< HEAD
 <video src="${PRIVATE_VIDEO_INTRO_1}" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
+=======
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+  <iframe src="${PRIVATE_VIDEO_INTRO_1}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" />
+</div>
+>>>>>>> 5886b1c86e922252fbb385f545c3a053a68f09a4
 
 Crafting effective responses to prompts requires a structured approach that ensures clarity, accuracy, and thorough reasoning. A well-written response enables the AI model to understand the logic behind the answer and learn how to reason through data in a similar fashion.
 
