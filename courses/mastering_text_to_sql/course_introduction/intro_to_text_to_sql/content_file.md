@@ -1,7 +1,8 @@
 # Course Introduction
 
-<iframe width="1280" height="720" src="${PRIVATE_VIDEO_INTRO_1}" title="Course Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen />
-
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+  <iframe src="${PRIVATE_VIDEO_INTRO_1}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" />
+</div>
 
 Imagine you're a business manager trying to retrieve sales figures from the past five years, but you're not proficient in SQL. Do you enjoy the constant back-and-forth with analysts to get the data you need, or would you prefer an intelligent assistant that understands your request in plain language and generates the right SQL queries for you?
 

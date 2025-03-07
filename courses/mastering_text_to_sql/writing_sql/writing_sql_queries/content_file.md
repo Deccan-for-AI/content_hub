@@ -1,5 +1,9 @@
 # Writing Accurate SQL Queries
 
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+  <iframe src="${PRIVATE_VIDEO_INTRO_1}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" />
+</div>
+
 Now that you’ve crafted your questions, it's time to generate the SQL queries that will extract the relevant information. Writing good SQL queries involves more than just translating the question into SQL—it requires attention to detail and a methodical approach. Let’s break down the key steps to writing quality queries.
 
 ## 1. Extract Key Instructions from the NLQ
