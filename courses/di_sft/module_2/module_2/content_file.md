@@ -4,7 +4,7 @@
   <iframe src="${PRIVATE_VIDEO_INTRO_1}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" />
 </div>
 
-<img height="329" width="602" src="PRIVATE_IMAGE_MOD2_1" />
+<img height="329" width="602" src="${PRIVATE_IMAGE_MOD2_1}" />
 
 **Using the image provided, which displays the U.S. Real GDP Growth percentages from 2012 to 2019, let’s walk through the key steps for understanding and analysing the data effectively:** &#x20;
 

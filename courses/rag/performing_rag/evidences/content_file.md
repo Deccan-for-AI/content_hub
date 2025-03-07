@@ -1,4 +1,4 @@
-## Evidencing the right way
+# Evidencing the right way
 
 Evidencing is the cornerstone of effective information retrieval. This is how you train the model to justify its accuracy. It serves as a guide, enabling the model to pinpoint the exact source and context of the information it uses. To ensure seamless and accurate retrieval, every evidence should include the following key elements.
 

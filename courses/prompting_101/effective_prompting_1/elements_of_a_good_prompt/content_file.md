@@ -1,13 +1,10 @@
 # Getting Better Responses from LLMs with Effective Prompting 
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
-
-  <iframe src="${PRIVATE_PROMPTING_101_VIDEO_2}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" />
-</div>
+<video src="${PRIVATE_PROMPTING_101_VIDEO_2}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
 ## Elements that turn a generic prompt into an effective one 
 
-<img height="392" width="602" src="${PRIVATE_PROMPTING_101_3}" />
+<img height="1000" width="1000" src="${PRIVATE_PROMPTING_101_3}" />
 
 ### <span style="color:#364BC9">1. Clarity & Specificity</span>
 
@@ -99,6 +96,6 @@
 * Sometimes you won’t get the perfect response on the first try. 
 * Iteration and refinement are essential for achieving the best results, especially for more complex or nuanced tasks.&#x20;
 
-<img height="336" width="602" src="${PRIVATE_PROMPTING_101_4}" />
+<img height="1000" width="1000" src="${PRIVATE_PROMPTING_101_4} />
 
 By embracing iteration and refinement, you can systematically enhance the quality of responses and optimise for accuracy, clarity, and relevance.
