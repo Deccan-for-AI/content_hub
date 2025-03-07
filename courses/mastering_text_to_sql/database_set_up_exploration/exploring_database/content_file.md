@@ -1,12 +1,10 @@
-# Database Exploration
+# Exploring the Database
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
-  <iframe src="${PRIVATE_VIDEO_INTRO_1}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" />
-</div>
+<video src="${PRIVATE_VIDEO_INTRO_1}" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
 ## Step 1: Understanding Database Schema
 
-A database schema defines how data is organized, including tables, columns, data types, relationships, and constraints. The first step in database exploration is schema discovery.
+A database schema defines how data is organized, including tables, columns, data types, relationships, and constraints. The first step in database exploration is schema discovery. 
 
 ### 1.1 Listing Tables in the Database
 
@@ -123,5 +121,6 @@ Ensures that popular products are identified before writing product sales NLQs.
 
 :::tip
 **Why is thorough database exploration important?**
+
 Effective database exploration is fundamental to writing high-quality SQL queries and generating meaningful insights. By systematically examining schema structures, relationships, and data distributions, you can craft precise, efficient business analysis queries.
 :::
