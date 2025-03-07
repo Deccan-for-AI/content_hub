@@ -1,5 +1,7 @@
 # Database Exploration
 
+<iframe width="1280" height="720" src="${PRIVATE_VIDEO_INTRO_1}" title="Database Exploration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen />
+
 ## Step 1: Understanding Database Schema
 
 A database schema defines how data is organized, including tables, columns, data types, relationships, and constraints. The first step in database exploration is schema discovery.
