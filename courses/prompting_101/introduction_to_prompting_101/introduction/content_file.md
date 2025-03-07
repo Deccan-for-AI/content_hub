@@ -1,8 +1,6 @@
 # Introduction to Prompting 101
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
-  <iframe src="${PRIVATE_PROMPTING_101_VIDEO_1}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" />
-</div>
+<video src="${PRIVATE_PROMPTING_101_VIDEO_1}" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
 ## Does your prompt affect your response?
 
@@ -22,8 +20,7 @@ Large Language Models (LLMs) that you widely use such as Chat GPT, Gemini and Ll
 
 **Response to Prompt 1:**&#x20;
 
-<img height="128" width="602" src="${PRIVATE_PROMPTING_101_1}" /> 
-
+<img height="128" width="602" src="${PRIVATE_PROMPTING_101_1}" />
 
 **Response to Prompt 2:**&#x20;
 
