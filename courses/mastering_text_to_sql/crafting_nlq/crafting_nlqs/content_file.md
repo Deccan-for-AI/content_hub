@@ -1,8 +1,13 @@
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
+  <iframe src="${PRIVATE_VIDEO_INTRO_1}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" />
+</div>
+
 # Crafting Effective NLQs
 
 Crafting effective NLQs is an art where creativity meets precision. Your goal is to simulate the types of questions real-world users would ask a model. Let’s break down the process step by step to help you write strong, business-focused queries.
 
-<img height="329" width="602" src="${PRIVATE_IMAGE_INTRO_3}" />
+<img height="530" width="670" src="${PRIVATE_IMAGE_INTRO_1}" />
 
 ## 1. Understand the Database
 
