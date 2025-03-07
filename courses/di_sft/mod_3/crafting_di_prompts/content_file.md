@@ -1,6 +1,6 @@
 # Crafting Complex and Effective Prompts
 
-<iframe width="1280" height="720" src="${PRIVATE_VIDEO_INTRO_1}" title="Crafting Effective Prompts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen />
+<video src="${PRIVATE_VIDEO_INTRO_1}" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
 Writing effective prompts is key to challenging AI models to deeply analyse and accurately interpret visual data, avoiding simplistic responses. This section covers prompt types, areas where models may struggle, examples, and the components of a strong prompt.
 
