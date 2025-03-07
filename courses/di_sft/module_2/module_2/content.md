@@ -1,6 +1,8 @@
 # Image Analysis
 
-<img height="329" width="602" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfyc1VvzXn7VzYKxhJIIhpk9R56Z7q97Bi0H-z68NaB_o0_2B4E8vbMHGvIBQXEsfbnk78Wj3u4Uz5cblz3HPNj6VmAFQ71RZoKxiWRec8T82XFXrxOajbdlZWHtQVosfhU4Ceiew?key=YaA7O7hAZEQAu4dYSRxJ8o4v" />
+<iframe width="1280" height="720" src="${PRIVATE_VIDEO_INTRO_1}" title="Image Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen />
+
+<img height="329" width="602" src="PRIVATE_IMAGE_MOD2_1" />
 
 **Using the image provided, which displays the U.S. Real GDP Growth percentages from 2012 to 2019, let’s walk through the key steps for understanding and analysing the data effectively:** &#x20;
 

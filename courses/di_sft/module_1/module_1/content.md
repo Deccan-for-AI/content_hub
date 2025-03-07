@@ -1,6 +1,6 @@
 # Teaching LLMs Data Interpretation through Supervised Fine-Tuning
 
-<img height="340" width="385" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdlKPdHRyBVIBykNBIczUu090fVf-4s0vZrjYOF8DXoQP3hN9TYzYg0mxNCmYLvoT32LyyX0sRvTBtrxH_KCWG0t84scCNjbfxHFotxRKpf1o41aYTxtEvUGdOCxtFrIqFmV7i9tw?key=YaA7O7hAZEQAu4dYSRxJ8o4v" />
+<iframe width="1280" height="720" src="${PRIVATE_VIDEO_INTRO_1}" title="Writing Effective DI Responses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen />
 
 ## What is Data Interpretation?
 

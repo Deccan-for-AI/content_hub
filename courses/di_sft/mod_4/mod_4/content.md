@@ -1,5 +1,7 @@
 # Writing Effective DI Responses
 
+<iframe width="1280" height="720" src="${PRIVATE_VIDEO_INTRO_1}" title="Writing Effective DI Responses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen />
+
 Crafting effective responses to prompts requires a structured approach that ensures clarity, accuracy, and thorough reasoning. A well-written response enables the AI model to understand the logic behind the answer and learn how to reason through data in a similar fashion.
 
 ## Rubric for Responses
@@ -33,7 +35,7 @@ Crafting effective responses to prompts requires a structured approach that ensu
 
 ## Writing Responses to a Contextual Prompt 
 
-<img height="686" width="686" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdh_quPKpb9piQOoeFdqrm46jX06JlupnZjUe-rPDq8BU68IrfXShEPLplu5kAoqcLuu7AsovmDFX2NUYdT-l0V7vn_BHTIkgn8MzDf2pRYorVuWnsYAjvX6g9q_mKFdTKsSBUD7g?key=YaA7O7hAZEQAu4dYSRxJ8o4v" />
+<img height="699" width="699" src="${PRIVATE_IMAGE_MOD4_1}" />
 
 :::note
 Identify the intoxicants in the given image that do not lead to 'drug-related mortality.' Present the findings in a table.
@@ -152,7 +154,7 @@ opioid tolerance, raises the risk of fatal respiratory depression."
 
 ## Writing Responses to a Semi-Contextual Prompt 
 
-<img height="656" width="656" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf9eInU-gzRagq8qlliHdqUpYCavCDMefR1uDOZ2LrBpeTMsnk73knqgToifi4EEfF_w3WOdS2PQhHVkFGa0eX90HzqklzUddOmzXCEiYrz_nAMeSn9HC663l1XNlDBXGQxxgSd?key=YaA7O7hAZEQAu4dYSRxJ8o4v" />
+<img height="642" width="642" src="${PRIVATE_IMAGE_MOD4_2}" />
 
 :::note
 List each major event, along with the year it occurred and the corresponding dust concentrations, that took place between the first appearance of black band disease and the recorded seagrass death. Additionally, indicate whether any of these events coincided with significant climatic events?
