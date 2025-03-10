@@ -1,5 +1,7 @@
 # Introduction to Prompting 101
 
+<video src="${PRIVATE_PROMPTING_101_VIDEO_1}" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
+
 ## Does your prompt affect your response?
 
 Have you ever wondered how AI chatbots, virtual assistants, and search engines give you the answers you need? It all comes down to something simple but powerful—**prompts**.
@@ -18,8 +20,7 @@ Large Language Models (LLMs) that you widely use such as Chat GPT, Gemini and Ll
 
 **Response to Prompt 1:**&#x20;
 
-<img height="128" width="602" src="${PRIVATE_PROMPTING_101_1}" /> 
-
+<img height="128" width="602" src="${PRIVATE_PROMPTING_101_1}" />
 
 **Response to Prompt 2:**&#x20;
 
