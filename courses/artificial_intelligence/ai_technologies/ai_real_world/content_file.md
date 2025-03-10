@@ -1,13 +1,17 @@
-🏷️ Topic 3: AI in Real-World Applications
-"Exploring how AI is transforming various industries."
+## 🏷️ Topic 3: **AI in Real-World Applications**
 
-🚀 Industries Using AI:
-✔ Healthcare – Disease detection, personalized treatment
-✔ Finance – Fraud detection, algorithmic trading
-✔ Retail – Chatbots, personalized recommendations
-✔ Autonomous Vehicles – Self-driving cars
+> *"Exploring how AI is transforming various industries."*
 
-[LINK TO TOPIC]{$INTERNAL_TOPIC_LINK_1}
+🚀 **Industries Using AI:**
+✔ **Healthcare** – Disease detection, personalized treatment
+✔ **Finance** – Fraud detection, algorithmic trading
+✔ **Retail** – Chatbots, personalized recommendations
+✔ **Autonomous Vehicles** – Self-driving cars
 
-[LINK TO TOPIC]{$INTERNAL_TOPIC_LINK_2}
+
+<a href="${INTERNAL_TOPIC_LINK_1}">Visit Example 1</a>
+
+<a href="${INTERNAL_TOPIC_LINK_2}">Visit Example 2</a>
+
+
 
