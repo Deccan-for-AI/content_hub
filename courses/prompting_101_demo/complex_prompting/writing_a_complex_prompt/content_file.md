@@ -8,7 +8,7 @@
 
 ## What is a Complex Prompt?
 
-A complex prompt is designed to challenge a model's capabilities by testing its performance across multiple dimensions and explore a model's limitation. 
+A complex prompt is designed to challenge a model's capabilities by testing its performance across multiple dimensions and explore a model's limitations. 
 
 ### Why learn Complex Prompting?
 
