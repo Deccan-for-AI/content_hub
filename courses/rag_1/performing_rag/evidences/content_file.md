@@ -1,5 +1,9 @@
 # Evidencing the right way
 
+<video src="${PRIVATE_VIDEO_RAG_4}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
+
+Take a quick look at the query creation process here: ${INTERNAL_LINK}
+
 Evidencing is the cornerstone of effective information retrieval. This is how you train the model to justify its accuracy. It serves as a guide, enabling the model to pinpoint the exact source and context of the information it uses. To ensure seamless and accurate retrieval, every evidence should include the following key elements.
 
 | Element                                  | Description                                                    | Why do you need to state it?                                                                                                                                                      |

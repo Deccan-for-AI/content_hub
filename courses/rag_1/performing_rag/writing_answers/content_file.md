@@ -1,5 +1,7 @@
 # Curating well-formatted answers
 
+<video src="${PRIVATE_VIDEO_RAG_5}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
+
 High-quality answers serve as a gold standard for the model to learn how to synthesize retrieved information with its generative abilities and produce good responses.
 Therefore, when creating answers for the data sample, we need to ensure that they are not directly copied from the evidence, but rather paraphrased into a cohesive response.
 Some things to keep in mind when curating answers are:
