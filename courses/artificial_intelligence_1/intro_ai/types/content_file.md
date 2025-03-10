@@ -1,4 +1,4 @@
-🏷️ Topic 2: Types of AI
+## 🏷️ Topic 2: Types of AI
 
 
 \> *"Breaking down AI into different categories based on capability and functionality."*
