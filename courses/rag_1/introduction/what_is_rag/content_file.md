@@ -12,6 +12,8 @@
 
 ## What is Retrieval Augmented Generation (RAG)?
 
+<video src="${PRIVATE_VIDEO_INTRO_2}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
+
 As the use of Large Language Models (LLMs) grows, there's increasing demand for these models to provide precise, up-to-date, and domain-specific information. One method gaining traction in addressing these needs is **Retrieval-Augmented Generation (RAG)**. Using this approach, the model extracts information from a large pool of external sources and integrates this with its generative abilities to produce a high-quality response.
 
 Simply put, the model does all the research work for you. Now, you don’t have to go through multiple links, records, and articles to come up with a verified answer; RAG-trained AI assistants can do it all for you!

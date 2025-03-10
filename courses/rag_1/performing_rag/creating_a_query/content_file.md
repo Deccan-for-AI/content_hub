@@ -1,4 +1,6 @@
-# Framing good questions
+# Framing a good question
+
+<video src="${PRIVATE_VIDEO_RAG_3}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
 A high-quality question is one that includes multiple sub-questions and references information from various sections of the document. When framing such a question, it should be structured like a user’s natural query to an assistant.
 
