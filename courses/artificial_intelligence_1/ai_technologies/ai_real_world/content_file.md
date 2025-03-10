@@ -11,5 +11,4 @@
 
 <a href="${INTERNAL_TOPIC_LINK_1}">Visit Example 1</a>
 
-<a href="${INTERNAL_TOPIC_LINK_2}">Visit Example 2</a>
 
