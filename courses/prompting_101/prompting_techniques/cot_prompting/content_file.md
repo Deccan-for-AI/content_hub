@@ -1,33 +1,31 @@
-##  Chain-of-Thought Prompting
+## Chain-of-Thought Prompting
 
-Ever solved a puzzle by breaking it into smaller pieces? That’s exactly how **Chain-of-Thought (CoT) prompting** works.  
+Ever solved a puzzle by breaking it into smaller pieces? That’s exactly how **Chain-of-Thought (CoT) prompting** works.
 
-Instead of jumping straight to the answer, a CoT prompt explicitly asks the model to think through a problem step-by-step before arriving at a final conclusion.  
+Instead of jumping straight to the answer, a CoT prompt explicitly asks the model to think through a problem step-by-step before arriving at a final conclusion.
 
-This makes it perfect for tasks involving reasoning, logic, or multi-step calculations.  
+This makes it perfect for tasks involving reasoning, logic, or multi-step calculations.
 
----
+***
 
-> ###  Why Use Chain-of-Thought Prompting?
->
-> - **Structured Thinking:** Helps the model logically process information.  
-> - **Better Accuracy:** Reduces errors in complex tasks by considering each detail.  
-> - **Clear Explanations:** Produces more transparent and understandable responses.  
+> ### Why Use Chain-of-Thought Prompting?- **Structured Thinking:** Helps the model logically process information.- **Better Accuracy:** Reduces errors in complex tasks by considering each detail.- **Clear Explanations:** Produces more transparent and understandable responses.
 
----
+***
 
 ### ✅ Steps to Chain-of-Thought Prompting:
 
-1. **Define the problem** – Clearly state the problem for the model.  
-2. **Instruct the model to think step-by-step** – Use phrases like *"Let’s think step by step"* or *"Break this down"* to guide the model through the reasoning process.  
-3. **Present the solution** – Once the steps are logically followed, ask the model to provide the final answer.  
+1. **Define the problem** – Clearly state the problem for the model.
+2. **Instruct the model to think step-by-step** – Use phrases like *"Let’s think step by step"* or *"Break this down"* to guide the model through the reasoning process.
+3. **Present the solution** – Once the steps are logically followed, ask the model to provide the final answer.
 
----
+***
 
-###  Example:
+### Example:
 
-```plaintext
+
+
+```txt
 ❌ What is the theme of "Moby Dick"?
-
 ```
-<img height="467" width="728" src="${PRIVATE_PROMPTING_101_10}" />
+
+<img height="900" width="900" src="${PRIVATE_PROMPTING_101_10}" />

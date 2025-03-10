@@ -30,4 +30,4 @@ With ToT prompting, models become strategic thinkers, exploring creative and log
 ❌ What are some ways to increase website traffic?
 ```
 
-<img height="467" width="728" src="${PRIVATE_PROMPTING_101_11}" />
+<img height="9000" width="900" src="${PRIVATE_PROMPTING_101_11}" />
