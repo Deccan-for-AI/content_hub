@@ -1,10 +1,6 @@
 # Challenging LLMs with Complex Prompting
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
-
-  <iframe src="${PRIVATE_PROMPTING_101_VIDEO_4}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" />
-
-</div>
+<video src="${PRIVATE_PROMPTING_101_VIDEO_4}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
 ## What is a Complex Prompt?
 
@@ -17,7 +13,7 @@ A complex prompt is designed to challenge a model's capabilities by testing its 
 
 ## Elements that make a prompt “Complex”
 
-<img height="467" width="728" src="${PRIVATE_PROMPTING_101_5}" />
+<img height="1000" width="1000" src="${PRIVATE_PROMPTING_101_5}" />
 
 ### <span style="color:#364BC9">Hypothetical Situations</span>
 
@@ -86,11 +82,9 @@ A complex prompt is designed to challenge a model's capabilities by testing its 
 
 ## Areas to Test Model Performance in
 
-<img height="588" width="735" src="${PRIVATE_PROMPTING_101_6}" />
+<img height="900" width="900" src="${PRIVATE_PROMPTING_101_6}" />
 
 ### <span style="color:#364BC9">A Complex Prompt that challenges “</span>**Instruction Following**<span style="color:#364BC9">”:</span>&#x20;
-
-<img height="252" width="451" alt="Selected image presented in a lightbox." src="${PRIVATE_PROMPTING_101_7}" />
 
 :::note
 You are writing a report based on the following image. Follow these steps:
