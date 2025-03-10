@@ -9,4 +9,9 @@ Looking to gain hands-on experience in building a **Retrieval-Augmented Generati
 
 Click the button below to get started and **begin building your own RAG samples today!**
 
-<a href="https://app.soulhq.ai/" style="padding: 10px; background-color: #364BC9; color: white; text-decoration: none; border-radius: 5px;"> Take the 1-Hour Challenge </a>
+<a href="https://app.soulhq.ai/" 
+   target="_blank" 
+   rel="noopener noreferrer" 
+   style="padding: 10px; background-color: #364BC9; color: white; text-decoration: none; border-radius: 5px;">
+   Take the 1-Hour Challenge
+</a>
