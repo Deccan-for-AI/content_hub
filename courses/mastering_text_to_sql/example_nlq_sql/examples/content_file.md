@@ -1,7 +1,5 @@
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
-  <iframe src="${PRIVATE_VIDEO_INTRO_1}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" />
-</div>
+<video src="${PRIVATE_VIDEO_INTRO_1}" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
 # Example\_1
 
@@ -10,7 +8,8 @@ What is the difference in the average order price for customers from the BUILDIN
 :::
 
 ```txt
-SELECT ABS(AVG(CASE WHEN c.c_mktsegment = 'BUILDING' THEN o.o_totalprice END) - AVG(CASE WHEN c.c_mktsegment = 'MACHINERY' THEN o.o_totalprice END)) AS diff_in_avg_order_price
+SELECT 
+ABS(AVG(CASE WHEN c.c_mktsegment = 'BUILDING' THEN o.o_totalprice END) - AVG(CASE WHEN c.c_mktsegment = 'MACHINERY' THEN o.o_totalprice END)) AS diff_in_avg_order_price
  FROM orders AS o
  LEFT JOIN customer AS c ON c.c_custkey = o.o_custkey
  WHERE c.c_mktsegment IN ('BUILDING', 'MACHINERY')
