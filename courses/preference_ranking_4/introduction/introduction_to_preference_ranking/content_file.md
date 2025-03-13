@@ -13,5 +13,3 @@ Preference Ranking is a widely used method  to evaluate and compare multiple res
 <video src="${PRIVATE_PR_VIDEO_3}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
 We’ll go through each of these steps in detail in the following modules and learn how to fine tune LLMs. Here's a quick quiz for you to catch up on things discussed till now:
-
-<a href="https://app.soulhq.ai/" style="padding: 10px; background-color: #364BC9; color: white; text-decoration: none; border-radius: 5px;"> Take the Quiz </a>
