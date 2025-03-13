@@ -8,14 +8,14 @@ Therefore, models trained in retrieving information provide high-quality respons
 
 <span style="color:#364BC9">Take a short quiz below and test your current understanding of RAG:</span>
 
-<div style="margin: 20px;">
+<div style="text-align: left;">
   <a
-    href="https://app.soulhq.ai/"
+    href="https://assessment.soulhq.ai/?id=NjdkMjZkNWUwZTBhMmE2ZmZmODRlZTcz"
     target="_blank"
     rel="noopener noreferrer"
-    style="display: inline-block; padding: 12px 20px; background-color: #364BC9; 
-color: white; text-decoration: none; border-radius: 8px; font-size: 16px; 
-font-weight: bold; text-align: center; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+    style="display: inline-block; padding: 8px 14px; background-color: #364BC9; 
+color: white; text-decoration: none; border-radius: 6px; font-size: 14px; 
+font-weight: bold; text-align: center; box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1); 
 transition: background-color 0.3s ease;"
   >
     Take the Quiz Here
