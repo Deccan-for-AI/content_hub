@@ -1,6 +1,6 @@
 ## What is Preference Ranking?
 
-<video src="${PRIVATE_PROMPTING_101_VIDEO_1}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
+<video src="${PRIVATE_PR_VIDEO_3}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
 
 With the growing use of Artificial Intelligence, Large Language Models have become increasingly important in powering chatbots, virtual assistants and other intelligent applications. While these models give impressive responses, it is crucial to consistently fine tune them through training and evaluation to maintain the quality, factuality, accuracy and relevance of outputs. This is where **Preference Ranking** becomes crucial.
