@@ -8,7 +8,7 @@ Sometimes, showing examples helps (**Few Shot method**). For more complex reason
 
 In the next few sections we’ll look at the three methods mentioned here. Learning these techniques is like adding tools to your problem-solving toolbox.
 
-<img height="400" width="800" src="${PRIVATE_PROMPTING_101_8}" />
+<img height="300" width="800" src="${PRIVATE_PROMPTING_101_8}" />
 
 ## Few-Shot Prompting
 
@@ -32,7 +32,7 @@ This is how **Few-Shot Prompting** works for language models. You show the model
 ❌  Classify the following product review:  "The battery life is great, but the camera quality could be better."  as Positive/Neutral/Negative.
 :::
 
-<img height="500" width="800" src="${PRIVATE_PROMPTING_101_9}" />
+<img height="500" width="900" src="${PRIVATE_PROMPTING_101_9}" />
 
 ***
 
@@ -58,7 +58,7 @@ Ever solved a puzzle by breaking it into smaller pieces? That’s exactly how **
 ❌  What is the theme of "Moby Dick"?
 :::
 
-<img height="500" width="800" src="${PRIVATE_PROMPTING_101_10}" />
+<img height="500" width="900" src="${PRIVATE_PROMPTING_101_10}" />
 
 ***
 
@@ -86,4 +86,4 @@ Instead of sticking to one answer, the model generates multiple thought paths, e
 ❌  What are some ways to increase website traffic?
 :::
 
-<img height="500" width="800" src="${PRIVATE_PROMPTING_101_11}" />
+<img height="500" width="900" src="${PRIVATE_PROMPTING_101_11}" />
