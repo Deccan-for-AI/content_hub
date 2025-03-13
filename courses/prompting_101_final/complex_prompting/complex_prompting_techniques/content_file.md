@@ -13,7 +13,7 @@ A complex prompt is designed to challenge a model's capabilities by testing its 
 
 ## Elements that make a prompt “Complex”
 
-<img height="500" width="500" src="${PRIVATE_PROMPTING_101_5}" />
+<img height="500" width="600" src="${PRIVATE_PROMPTING_101_5}" />
 
 ### <span style="color:#364BC9">Hypothetical Situations</span>
 
@@ -82,7 +82,7 @@ A complex prompt is designed to challenge a model's capabilities by testing its 
 
 ## Areas to Test Model Performance in
 
-<img height="600" width="600" src="${PRIVATE_PROMPTING_101_6}" />
+<img height="500" width="700" src="${PRIVATE_PROMPTING_101_6}" />
 
 ### <span style="color:#364BC9">A Complex Prompt that challenges “</span>**Instruction Following**<span style="color:#364BC9">”:</span>&#x20;
 

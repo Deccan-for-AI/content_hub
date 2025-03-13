@@ -4,7 +4,7 @@
 
 ## Elements that turn a generic prompt into an effective one 
 
-<img height="500" width="500" src="${PRIVATE_PROMPTING_101_3}" />
+<img height="700" width="500" src="${PRIVATE_PROMPTING_101_3}" />
 
 ### <span style="color:#364BC9">1. Clarity & Specificity</span>
 
@@ -82,7 +82,7 @@
 **Example:** 
 
 :::danger
-❌ List 3 renewable energy sources that can be used to reduce carbon emissions. Focus specifically on wind, solar, and hydropower, and explain how each one reduces emissions in urban areas.
+❌ List 3 renewable energy sources that can be used to reduce carbon emissions. Focus specifically on wind, solar, and hydropower, and explain how each one reduces emissions in urban areas
 :::
 
 :::info
@@ -96,6 +96,6 @@
 * Sometimes you won’t get the perfect response on the first try. 
 * Iteration and refinement are essential for achieving the best results, especially for more complex or nuanced tasks.&#x20;
 
-<img height="700" width="700" src="${PRIVATE_PROMPTING_101_4}" />
+<img height="600" width="1100" src="${PRIVATE_PROMPTING_101_4}" />
 
 By embracing iteration and refinement, you can systematically enhance the quality of responses and optimise for accuracy, clarity, and relevance.
