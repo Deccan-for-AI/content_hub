@@ -82,7 +82,7 @@
 **Example:** 
 
 :::danger
-❌ List 3 renewable energy sources that can be used to reduce carbon emissions. Focus specifically on wind, solar, and hydropower, and explain how each one reduces emissions in urban areas.
+❌ List 3 renewable energy sources that can be used to reduce carbon emissions. Focus specifically on wind, solar, and hydropower, and explain how each one reduces emissions in urban areas
 :::
 
 :::info
