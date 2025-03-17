@@ -156,7 +156,7 @@ opioid tolerance, raises the risk of fatal respiratory depression."
 
 ## Writing Responses to a Semi-Contextual Prompt 
 
-<img height="642" width="642" src="${PRIVATE_IMAGE_MOD4_2}" />
+<img height="650" width="900" src="${PRIVATE_IMAGE_MOD4_2}" />
 
 :::note
 List each major event, along with the year it occurred and the corresponding dust concentrations, that took place between the first appearance of black band disease and the recorded seagrass death. Additionally, indicate whether any of these events coincided with significant climatic events?
