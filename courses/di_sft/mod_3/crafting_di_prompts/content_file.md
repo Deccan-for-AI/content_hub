@@ -25,7 +25,7 @@ Writing effective prompts is key to challenging AI models to deeply analyse and 
 
 ## What makes an effective data interpretation prompt?
 
-<img height="495" width="600" src="${PRIVATE_IMAGE_MOD3_2}" />
+<img height="600" width="700" src="${PRIVATE_IMAGE_MOD3_2}" />
 
 ### <span style="color:#364BC9">1.  Relevance</span>
 
@@ -174,7 +174,7 @@ This version doesn’t provide enough structure or challenge points. It does not
 
 ## Prompt Example: Contextual
 
-<img height="699" width="699" src="${PRIVATE_IMAGE_MOD3_3}" />
+<img height="699" width="800" src="${PRIVATE_IMAGE_MOD3_3}" />
 
 :::note
 Identify the intoxicants in the given image that do not lead to 'drug-related mortality.' Present the findings in a table.
@@ -189,7 +189,7 @@ Identify the intoxicants in the given image that do not lead to 'drug-related m
 
 ## Prompt Example: Semi-Contextual
 
-<img height="642" width="642" src="${PRIVATE_IMAGE_MOD3_4}" />
+<img height="650" width="900" src="${PRIVATE_IMAGE_MOD3_4}" />
 
 :::note
 List each major event, along with the year it occurred and the corresponding dust concentrations, that took place between the first appearance of black band disease and the recorded seagrass death. Additionally, indicate whether any of these events coincided with significant climatic events?
