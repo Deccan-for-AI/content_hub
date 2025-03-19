@@ -2,7 +2,6 @@
 
 <video src="${PRIVATE_VIDEO_RAG_4}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
-
 Evidencing is the cornerstone of effective information retrieval. This is how you train the model to justify its accuracy. It serves as a guide, enabling the model to pinpoint the exact source and context of the information it uses. To ensure seamless and accurate retrieval, every evidence should include the following key elements.
 
 | Element                                  | Description                                                    | Why do you need to state it?                                                                                                                                                      |
@@ -47,6 +46,8 @@ Evidencing is the cornerstone of effective information retrieval. This is how yo
 
 
 
+
+
 **Evidence\_2**
 
 **Document URL:** [https://www.unicef.org/media/157491/file/UNICEF%20Annual%20report%202023%20EN.pdf](https://www.unicef.org/media/157491/file/UNICEF%20Annual%20report%202023%20EN.pdf)
@@ -60,6 +61,8 @@ Evidencing is the cornerstone of effective information retrieval. This is how yo
 **Span Rating:** 2
 
 **Span Type:** Text
+
+
 
 
 
