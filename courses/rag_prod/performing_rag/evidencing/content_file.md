@@ -2,13 +2,6 @@
 
 <video src="${PRIVATE_VIDEO_RAG_4}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
-Take a quick look at the query creation process here:
-
-<a href="${INTERNAL_LINK}" target="_blank" rel="noopener noreferrer">
-  Click here
-</a>
-
-***
 
 Evidencing is the cornerstone of effective information retrieval. This is how you train the model to justify its accuracy. It serves as a guide, enabling the model to pinpoint the exact source and context of the information it uses. To ensure seamless and accurate retrieval, every evidence should include the following key elements.
 
