@@ -213,3 +213,19 @@ List each major event, along with the year it occurred and the corresponding du
 
 By designing prompts with these components in mind, you’ll help train AI models to better interpret complex visual data, make informed inferences, and reason through challenging scenarios.
 :::
+
+<span style="color:#364BC9">Take a short quiz below and test your current understanding of DI | SFT:</span>
+
+<div style="text-align: left;">
+  <a
+    href="https://assessment.soulhq.ai/?id=NjdkOTdmZWU5MjdhMjY2YWVlMWI4Y2Iw"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="display: inline-block; padding: 8px 14px; background-color: #364BC9; 
+color: white; text-decoration: none; border-radius: 6px; font-size: 14px; 
+font-weight: bold; text-align: center; box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1); 
+transition: background-color 0.3s ease;"
+  >
+    Take the Quiz Here
+  </a>
+</div>
