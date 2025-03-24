@@ -99,3 +99,19 @@
 <img height="600" width="900" src="${PRIVATE_PROMPTING_101_4}" />
 
 By embracing iteration and refinement, you can systematically enhance the quality of responses and optimise for accuracy, clarity, and relevance.
+
+<span style="color:#364BC9">Take a short quiz below and test your current understanding of Effective Prompting:</span>
+
+<div style="text-align: left;">
+  <a
+    href="https://assessment.soulhq.ai/?id=NjdkOTdmN2QyZmU0MzIzZWRjOWY2YTk5"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="display: inline-block; padding: 8px 14px; background-color: #364BC9; 
+color: white; text-decoration: none; border-radius: 6px; font-size: 14px; 
+font-weight: bold; text-align: center; box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1); 
+transition: background-color 0.3s ease;"
+  >
+    Take the Quiz Here
+  </a>
+</div>
