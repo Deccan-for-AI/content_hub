@@ -1,8 +1,6 @@
 # Writing Accurate SQL Queries
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; overflow: hidden;">
-  <iframe src="${PRIVATE_VIDEO_INTRO_1}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" />
-</div>
+<video src="${PRIVATE_VIDEO_INTRO_1}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
 Now that you’ve crafted your questions, it's time to generate the SQL queries that will extract the relevant information. Writing good SQL queries involves more than just translating the question into SQL—it requires attention to detail and a methodical approach. Let’s break down the key steps to writing quality queries.
 
@@ -44,3 +42,19 @@ To ensure the query meets quality standards, follow this checklist:
 * **Correct sorting order:**
   Ensure the ASC (ascending) or DESC (descending) order aligns with the requirements of the NLQ.
 :::
+
+<span style="color:#364BC9">Take a short quiz below and test your current understanding of Text-To-SQL:</span>
+
+<div style="text-align: left;">
+  <a
+    href="https://assessment.soulhq.ai/?id=NjdkOTgwMzQyMGE2MWY1ZDI5NTlmZWE3"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="display: inline-block; padding: 8px 14px; background-color: #364BC9; 
+color: white; text-decoration: none; border-radius: 6px; font-size: 14px; 
+font-weight: bold; text-align: center; box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1); 
+transition: background-color 0.3s ease;"
+  >
+    Take the Quiz Here
+  </a>
+</div>
