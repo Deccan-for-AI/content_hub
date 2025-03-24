@@ -43,7 +43,7 @@ To ensure the query meets quality standards, follow this checklist:
   Ensure the ASC (ascending) or DESC (descending) order aligns with the requirements of the NLQ.
 :::
 
-<span style="color:#364BC9">Take a short quiz below and test your current understanding of Text-To-SQL:</span>
+<span style="color:#364BC9">Take a short quiz below and test your current understanding of Text To SQL:</span>
 
 <div style="text-align: left;">
   <a
