@@ -2,14 +2,14 @@
 
 <video src="${PRIVATE_WRITING_STYLE_VIDEO}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
-**Intent of Writing Style & Tone**
+### **Intent of Writing Style & Tone**
 
 * The goal of writing style and tone is to ensure that the response is well-written, easy to read, and engaging for the user.
 * The response should feel natural and conversational, helping the user easily understand the information and take necessary next steps.
 * The tone should be friendly and informative without sounding overly formal or lecturing.
 * Proper formatting and clarity are important to ensure a smooth reading experience.
 
-**How should you approach this rubric?**
+### **How should you approach this rubric?**
 
 1. The focus of this rubric is the RESPONSE.
 2. Check if the response is comprehensible, and sounds natural.

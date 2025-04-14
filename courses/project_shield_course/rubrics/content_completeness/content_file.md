@@ -2,7 +2,7 @@
 
 <video src="${PRIVATE_CONTENT_COMPLETENESS_VIDEO}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
-**Intent of Content Completeness:**
+### **Intent of Content Completeness:**
 
 The goal of completeness is to ensure that the response provides all the necessary information and details required to fully address the user’s intention.&#x20;
 
@@ -10,7 +10,7 @@ A complete response should not omit any important content that would leave the u
 
 Look at the table below for the categories of this rubric.
 
-**How should you approach this rubric?**
+### **How should you approach this rubric?**
 
 1. The focus of this rubric is the RESPONSE
 2. Identify the components of the query

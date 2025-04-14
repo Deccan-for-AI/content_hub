@@ -8,7 +8,7 @@
 * Responses should not circumvent the task or provide unwarranted refusals unless they involve safety concerns.&#x20;
 * Look at the table below for the categories of this rubric.
 
-**How should you approach this rubric?**
+### **How should you approach this rubric?**
 
 1. The focus of this rubric is the response.
 2. Check to see if all the intents of users are addressed in the response.
