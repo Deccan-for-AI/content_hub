@@ -21,21 +21,19 @@
 
 #### **Rating criteria**
 
-| Category           | Criteria                                                                                                                                                                                                                                              |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **No issues**      | All claims are grounded and supported by usable information.                                                                                                                                                                                          |
-| **Minor Issues**   | Primary claims (necessary for addressing the prompt) are accurate and supported by usable information, but at least one secondary claim is inaccurate or not supported by usable information.                                                         |
-| **Major Issues**   | The code or the code output are incorrect and therefore the final response is inaccurate. The code in the response or the code output are correct but the final response is hallucinated\*\*;\*\*  If claims are not supported by usable information. |
-| **Cannot Assess**  | Cannot determine validity of all the claims made in the response. Select this option if properly researching the claims in the response would take more than 15 minutes. Mark this is Response is a Punt.                                             |
-| **Not Applicable** | The response does not have any explicit or implicit factual claims.                                                                                                                                                                                   |
+| Category           | Criteria                                                                                                                                                                                                                                           |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **No issues**      | All claims are grounded and supported by usable information.                                                                                                                                                                                       |
+| **Minor Issues**   | Primary claims (necessary for addressing the prompt) are accurate and supported by usable information, but at least one secondary claim is inaccurate or not supported by usable information.                                                      |
+| **Major Issues**   | The code or the code output are incorrect and therefore the final response is inaccurate. The code in the response or the code output are correct but the final response is hallucinated **or** If claims are not supported by usable information. |
+| **Cannot Assess**  | Cannot determine validity of all the claims made in the response. Select this option if properly researching the claims in the response would take more than 15 minutes. Mark this is Response is a Punt.                                          |
+| **Not Applicable** | The response does not have any explicit or implicit factual claims.                                                                                                                                                                                |
 
 #### **💡 What to do to check the correct information for variable metrics?**
 
 :::info
 For information that should come from a tool output, meaning one of the tool APIs is specialised for the user query, we should consider the tool output as the only source of truth. The model without the use of extensions tools does not have access to real time data. Meaning, when the model presents a list of hotels with prices, or a list of flights, and the tool output does not show this information, we can consider this to be unsupported information and thus major issues.
 :::
-
-
 
 #### 💡 **What are Hallucinations?**&#x20;
 
