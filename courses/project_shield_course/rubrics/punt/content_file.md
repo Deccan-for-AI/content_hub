@@ -4,7 +4,7 @@
 
 If a model refuses to answer the prompt, this should be considered as a ‘punt’.&#x20;
 
-**How should you approach this rubric?**
+### **How should you approach this rubric?**
 
 * The focus of this rubric is the response.&#x20;
 * Check to see if the response doesn’t answer the prompt.&#x20;
@@ -15,5 +15,7 @@ If a model refuses to answer the prompt, this should be considered as a ‘punt�
 | **Response is a useful punt**     | The response doesn’t answer the prompt directly, does it still provide some related yet useful information or alternative solutions to find an answer. If yes, add in the comment box to explain how the related information or alternative solutions may be helpful. |
 | **Response is not a useful punt** | The response does not provide any related useful information or alternative solutions to find an answer.                                                                                                                                                              |
 | **Response is not a punt**        | The response is not a punt. It has answered the user query as a normal response.                                                                                                                                                                                      |
+
+### How do rubric ratings look like when the response is a punt?
 
 <img height="380" width="600" src="${PRIVATE_IMAGE_PUNT_1}" />

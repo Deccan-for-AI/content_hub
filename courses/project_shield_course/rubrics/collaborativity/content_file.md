@@ -4,19 +4,21 @@
 
 💡 The model is an interactive AI assistant which is expected to engage the user to indulge into conversation, make suggestions, and actively participate in taking next steps.&#x20;
 
-**Intent of Collaborativity:**
+### **Intent of Collaborativity:**
 
 * The goal of collaborativity is to assess how effectively the AI Assistant acts as a collaborative partner in its response.
 * A collaborative response should proactively engage with the user, offering suggestions, asking insightful follow-up questions, and sharing the responsibility of driving the conversation forward.
 * The AI should demonstrate an understanding of the user's broader goals and actively work with the user to achieve them, rather than simply providing one-off answers.
 
-**How should you approach this rubric?**
+### **How should you approach this rubric?**
 
-1. The focus of this rubric is FIRST on the user’s query, THEN on the response.&#x20;
-2. The first step is always to check if the user has explicitly mentioned any broader intent. E.g.
+* The focus of this rubric is FIRST on the user’s query, THEN on the response.&#x20;
+* The first step is always to check if the user has explicitly mentioned any broader intent.&#x20;
 
-* *Write a song about clouds - There is a broader intent that can be fulfilled in a single response so the collaborative efforts will be N/A*
-* *Find me the cheapest flights - The user has explicitly mentioned a broader intent that needs further clarification, hence the model should collaborate with follow-up questions or suggestions.*
+**Example**:
+
+* ***Write a song about clouds** - T*here is a broader intent that can be fulfilled in a single response so the collaborative efforts will be N/A
+* ***Find me the cheapest flights** -* The user has explicitly mentioned a broader intent that needs further clarification, hence the model should collaborate with follow-up questions or suggestions.
 
 | Category           | Criteria                                                                                                                                                                                                                                                                                                                         |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
