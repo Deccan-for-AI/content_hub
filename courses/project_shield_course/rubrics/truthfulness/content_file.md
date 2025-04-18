@@ -38,3 +38,15 @@ For information that should come from a tool output, meaning one of the tool API
 #### 💡 **What are Hallucinations?**&#x20;
 
 Hallucinations in an AI model refer to instances where the model generates information that is incorrect, nonsensical, or fabricated but presented as factual or coherent. However, the model may generate data that is not backed up by evidence in creative tasks (e.g. story writing), and is not considered as a hallucination in such cases.
+
+### Example
+
+> User Prompt: **"Who painted the Mona Lisa?"**
+
+| Category           | Example                                                                                                                 | Explanation                                                                                                                          |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **No Issues**      | *“The Mona Lisa was painted by Leonardo da Vinci, a renowned Italian artist of the Renaissance era.”*                   | ✔️ Primary claim (Leonardo da Vinci) is accurate. ✔️ The response is fully grounded with no inaccuracies.                            |
+| **Minor Issues**   | *“Leonardo da Vinci painted the Mona Lisa. He was also a prolific inventor who created flying machines.”*               | ✔️ Primary claim (painting the Mona Lisa) is accurate and grounded. ❌ Secondary claim (flying machines) is unverified or inaccurate. |
+| **Major Issues**   | *“The Mona Lisa was painted by Pablo Picasso.”*                                                                         | ❌ Primary claim is inaccurate (wrong artist). ❌ The response fails completely to meet truthfulness.                                  |
+| **Cannot Assess**  | *“Leonardo da Vinci painted the Mona Lisa. It’s said that he used a secret technique, but details on this are scarce.”* | ❓ Validity of the secondary claim about a secret technique cannot be determined due to lack of accessible information.               |
+| **Not Applicable** |  **Prompt**: *“The Mona Lisa is my favourite painting.” or “Write a fictional story based on the Mona Lisa”.*           | There are no factual claims to verify-the rubric doesn’t apply.                                                                      |

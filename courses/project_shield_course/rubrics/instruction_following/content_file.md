@@ -28,3 +28,14 @@
 * Do not give importance to order of the instructions unless it is given in the prompt explicitly.
 * Check the model’s response on every underlined instruction.
 :::
+
+### **Example**
+
+> User Prompt: "**Write a short paragraph explaining how solar panels work, and include a metaphor to make it easy to understand for kids."**
+
+| Category       | Response                                                                                                                                                                                                        | Explanation                                                                                                                             |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| No issues      | Solar panels work by capturing sunlight and turning it into electricity using special cells called photovoltaic cells. It’s like a magic sponge that soaks up sunshine and squeezes out power to run your home! | ✔️ Explains how solar panels work. ✔️ Uses a metaphor. ✔️ Written in a fun, kid-friendly way.                                           |
+| Minor Issues   | Solar panels turn sunlight into electricity using photovoltaic cells. It’s a great way to power your home.                                                                                                      | ✔️ Explains how solar panels work. ❌ Misses the metaphor. ➡️ It’s still helpful and addresses the main intent but isn’t fully complete. |
+| Major Issues   | Solar panels are used in many homes these days. They are becoming more popular around the world.                                                                                                                | ❌ Doesn’t explain how solar panels work. ❌ No metaphor. ➡️ Completely skips the instructions—major issues here.                         |
+| Not Applicable | I love how sunny days make everything brighter.                                                                                                                                                                 | This is just a statement with no instructions, so this rubric doesn’t apply.                                                            |
