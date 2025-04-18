@@ -1,6 +1,14 @@
-## What is Preference Ranking?
+# Preference Ranking - Project Training | Soul AI
 
-<video src="${PRIVATE_PREFERENCE_RANKING_VIDEO}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
+## Welcome!&#x20;
+
+<video src="${PRIVATE_PREFERENCE_RANKING_VIDEO_1}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
+
+***
+
+# Preference Ranking and Your Role
+
+<video src="${PRIVATE_PREFERENCE_RANKING_VIDEO_2}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
 With the growing use of Artificial Intelligence, Large Language Models have become increasingly important in powering chatbots, virtual assistants and other intelligent applications. While these models give impressive responses, it is crucial to consistently fine tune them through training and evaluation to maintain the quality, factuality, accuracy and relevance of outputs.&#x20;
 
@@ -11,3 +19,58 @@ This is where **Preference Ranking** becomes crucial.
 * It serves as a reward system where the model learns that responses ranked higher are good responses and it tunes itself to generate highly ranked responses in future interactions.&#x20;
 * The ranking is also followed by a justification which is backed by evidence borrowing from all the individual rubrics the response is evaluated against. This justification serves as ordered feedback that trains the model to make tailored adjustments.&#x20;
 * The model learns from detailed explanations and makes targeted changes performing better in complex output patterns.
+
+## Your Role
+
+As an AI trainer, *you* play a pivotal role in shaping how AI systems understand and respond to human language. Your insights help improve the quality, reliability, and human-likeness of AI-generated content.
+
+#### **💡 Things to keep in mind**
+
+:::info
+#### **✅ Be Objective:** Avoid personal bias or preferences. Focus on the quality of the response *based on the prompt and rubrics.*&#x20;
+
+#### **✅ Be Consistent:** Use the same internal standard across all tasks. Don’t let the quality of one task influence how you rate the next.
+
+#### **✅ Think Like a User:** Evaluate each response from the point of view of an end user. Ask: *Does this answer actually help someone looking for information or guidance?*
+
+#### **✅ Pay Attention to Detail:** Look for subtle issues: misleading statements, overuse of jargon, grammatical awkwardness, incomplete answers, hallucinations, etc.
+
+#### **✅ Justify Your Choice Clearly:** Your explanation helps trainers and researchers understand how the model is doing. Be specific: what *exactly* made one response better than the other?
+:::
+
+***
+
+## Tasking Overview
+
+1. For this project you will be presented with a user prompt and two AI-generated responses, along with the code, thought, and code output for each response on the tasking platform.
+2. You will assess each response by rating it across several specific dimensions, followed by an overall quality rating. First, you will **rate the 1st response** using the provided rubrics, and then proceed to **rate the 2nd response** on the same rubrics.
+3. After completing the rubric evaluations, you will rate both responses on a **Likert scale**.
+4. Finally, provide a **logical justification** for choosing a value from **1 to 7** on the Likert scale.
+
+### Tasking step-by-step workflow
+
+* **Step 1: Understanding the instruction/question**
+
+1. You will have a prompt and two responses, along with the code, thought and code output for each response.
+2. Understand the user’s intent from the prompt.
+
+* **Step 2: Rate the Responses**
+
+1. Once you have read the prompt, you have to rate both the responses separately and determine how well the response meets the task guidelines and the user’s intent.
+2. There are some important points to remember before you begin evaluating:
+   \- Evaluate and identify if the response is a punt or not and mark it accurately.
+   \- Evaluate each response separately against the 11 rubrics and then mark it’s overall quality.
+   \- The explanation for response categories under each rubric are contextual. Make sure to read through the detailed explanations to get accurate answers.
+
+* **Step 3: Comparatively ranking the responses - Preference Ranking**
+
+1. Once you have rated both the responses on the 11 rubrics individually, you have to compare both the responses and rank on the Likert scale.&#x20;
+2. When comparing two responses on a scale of 1 to 7, make sure to reference the dimensions or rubrics used previously to evaluate both responses. This will ensure a thorough and consistent analysis.&#x20;
+
+**Step 4: Justify your rank**
+
+1. Finally, you have to write a justification for the chosen rating on the Likert scale. This helps in understanding the rationale behind the ranking.
+2. The justification has to be based on the metrics used to rate both the responses and provide evidence.
+3. A good justification is thorough yet concise, consistent with the ranking and helps in improving the model.
+
+#### &#xA;&#xA;&#xA;&#xA;&#xA;

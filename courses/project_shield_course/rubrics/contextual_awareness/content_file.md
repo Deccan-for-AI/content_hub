@@ -53,3 +53,20 @@
 | **Minor Issues**   | The response partially recalled and built upon information and instructions from previous turns and from the context for the user prompt, but there were a few instances where it could have done so, more effectively. **\|** It may have occasionally missed minor details, slightly misinterpreted prior statements, or failed to incorporate certain information seamlessly.                                        |
 | **Major Issues**   | The response struggled to consistently remember or build upon information and instructions from previous conversations including the user prompt. **\|**                                             It frequently contradicted earlier statements, failed to take into account previously communicated constraints or important details, or provided responses that seemed disconnected from the ongoing conversation. |
 | **Not Applicable** | Response is the first turn in conversation.                                                                                                                                                                                                                                                                                                                                                                             |
+
+### Example
+
+> **User:** “Can you suggest a vegetarian dinner recipe?”
+
+> **AI:** “Sure! How about a chickpea curry?”
+
+> **User:** “Great! I don’t like spicy food, though. Can you adjust the recipe?”
+
+> **AI (current response):** This is what we evaluate below ⬇️
+
+| Category           | Example                                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Not Applicable** | 🟢 First turn — nothing to build on ➡️ Mark as Not Applicable                                                                                                                                                                                                                                                                                                                  |
+| **No issues**      | “*Absolutely! Here's a mild version of chickpea curry: Use coconut milk and just a pinch of turmeric and cumin for flavour without heat. Skip the chili entirely, and add a bit of lemon juice for brightness. Want a side dish suggestion too?*” **✔️ Fully remembers the dish ✔️ Adapts for “no spicy food” ✔️ Adds value with a follow-up ✔️ Consistent and context-aware** |
+| **Minor Issues**   | “*Sure! You can make a chickpea curry by sautéing onions, garlic, and adding tomatoes and chickpeas. It's quick and healthy.*” **✔️ Still suggests chickpea curry ❌ No mention of “no spicy food” preference ➡️ Not incorrect, but misses key context ➡️ A helpful response, but not personalised**                                                                            |
+| **Major Issues**   | *"How about a spicy lentil stew with lots of chilli flakes and hot sauce?"* **❌ Suggests a different dish ❌ Contradicts the “no spicy food” request ❌ Ignores the ongoing recipe thread ➡️ Completely disconnects from context**                                                                                                                                               |
