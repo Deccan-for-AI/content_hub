@@ -33,11 +33,10 @@ Crafting effective responses to prompts requires a structured approach that ensu
 
 ***
 
-## Writing Responses to a Contextual Prompt 
+## Writing Responses to a Contextual Prompts
 
 <img height="699" width="699" src="${PRIVATE_IMAGE_MOD4_1}" />
 
-[**LINK TO Requirement Gathering**]($INTERNAL_TOPIC_LINK)
 
 :::note
 Identify the intoxicants in the given image that do not lead to 'drug-related mortality.' Present the findings in a table.
