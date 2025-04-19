@@ -24,7 +24,7 @@ jobs:
           COMMIT_SHA="${{ github.event.pull_request.head.sha }}"
           PULL_NUMBER="${{ github.event.pull_request.number }}"
           SOURCE_BRANCH="${{ github.event.pull_request.head.ref }}"
-          echo "Making an external call to custom service... https://5529-14-140-185-199.ngrok-free.app"
+          echo "Making an external call to custom service... https://4775-49-205-252-58.ngrok-free.app"
           echo "Commit SHA: $COMMIT_SHA"
           echo "Pull Request Number: $PULL_NUMBER"
           echo "Source Branch: $SOURCE_BRANCH"
@@ -40,7 +40,7 @@ jobs:
             -H "Authorization: Basic ${{ secrets.DEV_API_AUTH_TOKEN }}" \
             -H "Content-Type: application/json" \
             -d '{"commit_sha":"'"$COMMIT_SHA"'", "pull_number":"'"$PULL_NUMBER"'", "source_branch":"'"$SOURCE_BRANCH"'"}' \
-            https://5529-14-140-185-199.ngrok-free.app/api/v1/validate/course/content)
+            https://4775-49-205-252-58.ngrok-free.app/api/v1/validate/course/content)
 
           echo "HTTP status code: $response"
 

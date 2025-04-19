@@ -24,14 +24,14 @@ jobs:
           MERGE_SHA="${{ github.event.pull_request.merge_commit_sha }}"
           echo "Merge commit SHA: $MERGE_SHA"
 
-          echo "Calling external service with PR number... https://5529-14-140-185-199.ngrok-free.app"
+          echo "Calling external service with PR number... https://4775-49-205-252-58.ngrok-free.app"
 
           response=$(curl -s -o /tmp/response.json -w '%{http_code}' \
             -X POST \
             -H "Authorization: Basic ${{ secrets.DEV_API_AUTH_TOKEN }}" \
             -H "Content-Type: application/json" \
             -d '{"pull_number":"'"$PULL_NUMBER"'", "merge_sha":"'"$MERGE_SHA"'"}' \
-            https://5529-14-140-185-199.ngrok-free.app/api/v1/upsert/course/content)
+            https://4775-49-205-252-58.ngrok-free.app/api/v1/upsert/course/content)
 
           echo "HTTP status code: $response"
 
