@@ -13,3 +13,5 @@
 Check if the user's intent has been addressed in the grounding information/code output.
 
 ### Evaluation Criteria with Examples
+
+<img height="1200" width="1200" src="${PRIVATE_CODE_OUTPUT_IMAGE}" />
