@@ -14,4 +14,4 @@ Check if the user's intent has been addressed in the grounding information/code 
 
 ### Evaluation Criteria with Examples
 
-<img height="1200" width="1200" src="${PRIVATE_CODE_OUTPUT_IMAGE}" />
+<img height="350" width="1000" src="${PRIVATE_CODE_OUTPUT_IMAGE}" />
