@@ -12,7 +12,7 @@ Rubrics are foundational to training AI with Reinforcement Learning from Human F
 
 The rubric used here is built on **20 parameters divided into 4 broad groups** in an increasing order of complexity to fine tune the model. Each parameter reflects a key factor that contributes to a high-quality, user-aligned AI response.
 
-<img height="500" width="500" src="${PRIVATE_PREFERENCE_RANKING_IMAGE_5}" />
+<img height="300" width="500" src="${PRIVATE_PREFERENCE_RANKING_IMAGE_5}" />
 
 :::tip
 💡 You can think of parameters as the “axes” of evaluation: a model output might be accurate but unclear, or clear but unhelpful. By splitting evaluation across parameters, we can more precisely identify strengths and weaknesses in model behaviour. Thus, each response is judged against a combination of parameters from different groups that are most important to that prompt.
@@ -27,4 +27,4 @@ Your scoring should be **informed by these context-specific guidelines**, not ju
 
 ### Rating Scale
 
-<img height="700" width="700" src="${PRIVATE_PREFERENCE_RANKING_IMAGE_6}" />
+<img height="400" width="600" src="${PRIVATE_PREFERENCE_RANKING_IMAGE_6}" />

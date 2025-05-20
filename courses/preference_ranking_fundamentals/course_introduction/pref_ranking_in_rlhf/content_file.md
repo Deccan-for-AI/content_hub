@@ -6,11 +6,11 @@
 
 Preference Ranking is a method where human evaluators compare multiple AI-generated responses to a given prompt according to specific parameters, such as accuracy, clarity, helpfulness, or alignment with instructions, and rank one of the two responses to be a better one. Preference Ranking helps identify responses that humans prefer, directly influencing how the model learns and improves over time.
 
-<img height="600" width="600" src="${PRIVATE_PREFERENCE_RANKING_IMAGE_3}" />
+<img height="400" width="600" src="${PRIVATE_PREFERENCE_RANKING_IMAGE_3}" />
 
 ## Preference Ranking: The Process
 
-<img height="500" width="500" src="${PRIVATE_PREFERENCE_RANKING_IMAGE_4}" />
+<img height="200" width="500" src="${PRIVATE_PREFERENCE_RANKING_IMAGE_4}" />
 
 #### **1. Start with the user’s intent**
 

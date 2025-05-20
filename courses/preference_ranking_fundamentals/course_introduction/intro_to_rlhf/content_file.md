@@ -12,4 +12,4 @@ RLHF improves LLMs by aligning their outputs with human values, expectations and
 
 ### The Foundational RLHF Process
 
-<img height="600" width="600" src="${PRIVATE_PREFERENCE_RANKING_IMAGE_2}" />
+<img height="400" width="700" src="${PRIVATE_PREFERENCE_RANKING_IMAGE_2}" />
