@@ -1,6 +1,6 @@
 ## <span style=""color:#364BC9"">Battle of Two LLMs</span>
 
-<video src="${COMPLEX_PROMPTING_VIDEO_7}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
+<video src="${PRIVATE_COMPLEX_PROMPTING_VIDEO_7}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
 :::tip
 * A complex prompt was used to test two different LLMs.

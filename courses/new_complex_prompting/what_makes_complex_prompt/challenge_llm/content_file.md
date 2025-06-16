@@ -1,6 +1,6 @@
 ## <span style=""color:#364BC9"">Complexity Axes to Challenge LLMs</span>
 
-<video src="${COMPLEX_PROMPTING_VIDEO_6}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
+<video src="${PRIVATE_COMPLEX_PROMPTING_VIDEO_6}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
 :::tip
 * **Multi-step Reasoning**: Requires the model to complete a sequence of reasoning steps where each step builds on the previous—testing logical consistency across a task chain.
