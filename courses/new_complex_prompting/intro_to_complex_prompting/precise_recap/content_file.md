@@ -1,4 +1,4 @@
-## <span style=""color:#364BC9"">Effective Prompting: Recap</span>
+## <span style="color:#364BC9">Effective Prompting: Recap</span>
 <video src="${PRIVATE_COMPLEX_PROMPTING_VIDEO_3}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
 
@@ -21,4 +21,4 @@
 :::
 
 ***
-<img height="400" width="700" src="${PRIVATE_COMPLEX_PROMPTING_IMAGE_1}" />
+<img height="400" width="900" src="${PRIVATE_COMPLEX_PROMPTING_IMAGE_1}" />
