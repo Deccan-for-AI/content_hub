@@ -1,6 +1,6 @@
 # <span style="color:#364BC9">Adding Scope & Constraints</span>
 
-<video src="${PRIVATE_PROMPTING_VIDEO_5}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
+<video src="${PRIVATE_PROMPTING_VIDEO_4}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
 &#x20;Constraints serve as boundaries that improve focus, reduce unnecessary detail, and ensure responses are structured and usable.
 
