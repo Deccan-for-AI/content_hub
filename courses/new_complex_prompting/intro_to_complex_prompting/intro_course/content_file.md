@@ -1,8 +1,8 @@
-## <span style="color:#364BC9">Intro to the Course</span>
-# <span style="color:#364BC9">Complex Prompting |Soul AI</span>
+# <span style="color:#364BC9">Welcome to Complex Prompting </span>
+
 <video src="${PRIVATE_COMPLEX_PROMPTING_VIDEO_1}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
-
+## <span style="color:#364BC9">Intro to the Course</span>
 
 :::tip
 * This course will zoom into the more advanced layer of prompting, i.e., Complex Prompting.
@@ -22,5 +22,3 @@
 :::
 
 ####
-
-***
