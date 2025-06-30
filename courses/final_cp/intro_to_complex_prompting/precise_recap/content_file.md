@@ -9,6 +9,7 @@
 * R- Requirements and Restrictions
 * E- Examples
 * C-Context and Background
+* I-Instruction Structure
 * S- Style and Sensitivity
 * E- Evaluation and Refinement&#x20;
 
