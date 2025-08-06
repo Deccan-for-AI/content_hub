@@ -1,23 +1,26 @@
-## <span style="color:#364BC9">Comparative Ranking</span>
+# <span style="color:#364BC9"><u>Error Correction & Formatting Tips </u></span>
 
 <video src="${PRIVATE_PREFERENCE_RANKING_VIDEO_3}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
-After individually scoring the two responses, compare them directly using a **1–7 Likert scale**, reflecting which is better and by how much.
-❗ **This is based on the *Overall Response Quality* rating — not individual dimension ratings.**
+## <span style="color:#8591FF">Common Mistakes to Avoid</span>
 
-### <span style="color:#8591FF">How to rate on the Likert Scale?</span>
+| <span style="color:#8591FF">Mistakes to Avoid</span> |                         <span style="color:#8591FF"> Correct Syntax to Use</span>                        |
+| :--------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+|           **Writing $H\_2O$ → italic text**          |             instead use <span style="color:#008000">$\mathrm{H\_2O}$ or $\ce{H\_2O}$</span>              |
+|            **Missing unit spacing: $5kg$**           |                         Use <span style="color:#008000">$5\\, \text{kg}$ </span>                         |
+|             **Typing % without escaping**            |                                Use <span style="color:#008000">\\%</span>                                |
+|           **Using \\\[...\\] or \\(...\\)**          |                     Use <span style="color:#008000"> $$...$$ or $...$</span> instead                     |
+|              **Using ' or " for quotes**             | Use <span style="color:#008000">‘ ’</span> for single, <span style="color:#008000">“ ”</span> for double |
+|           **Forgetting {} in superscripts**          |                      Always write <span style="color:#008000">x^{2n}</span> not x^2n                     |
 
-1. Rate both responses individually across the dimensions.
-2. Make note of the **Overall Response Quality** of both responses.
-3. Then, compare the two responses overall using the **Likert scale (1–7)**.
-4. If both responses have the **same overall response quality** but different number of issues, the one with lesser number of issues should be marked slightly better.
-   💡 *The 1–7 Likert scale is a standard way to compare responses, widely used in evaluation settings.*
+:::info
+**Project-specific LaTeX styles and formatting rules will be provided during your onboarding.**
 
-***
+A detailed documentation link is shared in the resource tab.
+:::
 
-### <span style="color:#8591FF">Likert Scale</span>
+## <span style="color:#8591FF">Formatting Best Practices</span>
 
-| **1**                                          | **2**                                               | **3**                                         | **4**                                | **5**                                         | **6**                                               | **7**                                          |
-| ---------------------------------------------- | --------------------------------------------------- | --------------------------------------------- | ------------------------------------ | --------------------------------------------- | --------------------------------------------------- | ---------------------------------------------- |
-| A is much better than B                        | A is better than B                                  | A is slightly better than B                   | A and B are about the same           | B is slightly better than A                   | B is better than A                                  | B is much better than A                        |
-| Response A is 4 points better than Response B. | Response A is 2 or 3 points better than Response B. | Response A is 1 point better than Response B. | Response A and Response B are equal. | Response B is 1 point better than Response A. | Response B is 2 or 3 points better than Response A. | Response B is 3 points better than Response A. |
+1. **Compile/check** content regularly while typing.
+2. **Avoid blank lines after equations** — it starts a new paragraph.
+3. **Keep LaTeX minimal** — use only what's needed for SOUL rendering.
