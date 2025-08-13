@@ -8,7 +8,7 @@
 
 ## <span style="color:#364BC9">Common Mistakes to Avoid</span>
                         
-<img height="380" width="850" src="${PRIVATE_PREFERENCE_RANKING_IMAGE_3}" />
+<img height="380" width="950" src="${PRIVATE_PREFERENCE_RANKING_IMAGE_3}" />
 
 **❗️Project-specific LaTeX styles and formatting rules will be provided during your onboarding.** **A detailed documentation link is shared in the resource tab.**
 
