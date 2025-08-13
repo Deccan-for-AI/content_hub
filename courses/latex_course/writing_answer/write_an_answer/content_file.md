@@ -4,33 +4,8 @@
 
 ## <span style="color:#364BC9">Key Guidelines (SOUL-Specific) </span>
 
-<table>
-  <tr>
-    <th>Functions to be used</th>
-    <th>Examples</th>
-  </tr>
-  <tr>
-    <td>Use <span style="color:red">$...$</span> for inline math</td>
-    <td><span style="color:green">$F = ma$</span></td>
-  </tr>
-  <tr>
-    <td>Use <span style="color:red">$$...$$</span> for display math</td>
-    <td><span style="color:green">$$F = ma$$</span></td>
-  </tr>
-  <tr>
-    <td>Use <span style="color:red">\mathrm{} or \ce{}</span> for chemical names</td>
-    <td><span style="color:green">$\mathrm{H_2O}$</span> or <span style="color:green">$\ce{H_2O}$</span></td>
-  </tr>
-  <tr>
-    <td>Use <span style="color:red">\, \text{}</span> for units with spacing</td>
-    <td><span style="color:green">$5\, \text{kg}$</span></td>
-  </tr>
-  <tr>
-    <td>To adjust the brackets to the big fractions inside</td>
-    <td><span style="color:green">\left(\frac{a}{b}\right)</span></td>
-  </tr>
-  <tr>
-    <td>Tables</td>
-    <td><span style="color:green">\begin{array}{|c|c|} \hline x & y \\ \hline \end{array}</span></td>
-  </tr>
-</table>
+## <span style="color:#364BC9">Key Guidelines (SOUL-Specific) </span>
+<img height="400" width="900" src="${PRIVATE_PREFERENCE_RANKING_IMAGE_1}" />
+
+## <span style="color:#364BC9">Use These Instead of Markdown</span>
+<img height="400" width="900" src="${PRIVATE_PREFERENCE_RANKING_IMAGE_2}" />
