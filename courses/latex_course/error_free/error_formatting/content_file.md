@@ -6,10 +6,8 @@
 ## <span style="color:#364BC9">Fixing errors involving misplaced "" and usage of \ce{} an essential tool for chemistry questions.</span>
 <video src="${PRIVATE_PREFERENCE_RANKING_VIDEO_5}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
-## <span style="color:#8591FF">Common Mistakes to Avoid</span>
-
-
-<span style="color:#8591FF">Mistakes to Avoid</span> |                         
+## <span style="color:#364BC9">Common Mistakes to Avoid</span>
+                        
 <img height="350" width="900" src="${PRIVATE_PREFERENCE_RANKING_IMAGE_3}" />
 
 **❗️Project-specific LaTeX styles and formatting rules will be provided during your onboarding.** **A detailed documentation link is shared in the resource tab.**
