@@ -3,7 +3,7 @@
 ## <span style="color:#364BC9">Converting the Answer format to LaTeX and making it more professional and presentable</span>
 <video src="${PRIVATE_PREFERENCE_RANKING_VIDEO_3}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
-## <span style="color:#364BC9">earn to fix misplaced backslashes (for everyone) and master \ce{} (a must-know for chemistry pros).</span>
+## <span style="color:#364BC9">Learn to fix misplaced backslashes (for everyone) and master \ce{} (a must-know for chemistry pros).</span>
 <video src="${PRIVATE_PREFERENCE_RANKING_VIDEO_5}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
 ## <span style="color:#364BC9">Common Mistakes to Avoid</span>
