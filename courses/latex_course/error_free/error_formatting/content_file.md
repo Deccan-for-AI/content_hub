@@ -3,12 +3,12 @@
 ## <span style="color:#364BC9">Converting the Answer format to LaTeX and making it more professional and presentable</span>
 <video src="${PRIVATE_PREFERENCE_RANKING_VIDEO_3}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
-## <span style="color:#364BC9">Fixing errors involving misplaced "\" and usage of \ce{} an essential tool for chemistry questions.</span>
+## <span style="color:#364BC9">earn to fix misplaced backslashes (for everyone) and master \ce{} (a must-know for chemistry pros).</span>
 <video src="${PRIVATE_PREFERENCE_RANKING_VIDEO_5}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 
 ## <span style="color:#364BC9">Common Mistakes to Avoid</span>
                         
-<img height="370" width="950" src="${PRIVATE_PREFERENCE_RANKING_IMAGE_3}" />
+<img height="360" width="950" src="${PRIVATE_PREFERENCE_RANKING_IMAGE_3}" />
 
 **❗️Project-specific LaTeX styles and formatting rules will be provided during your onboarding.** **A detailed documentation link is shared in the resource tab.**
 
