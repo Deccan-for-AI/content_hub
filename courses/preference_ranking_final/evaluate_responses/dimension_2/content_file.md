@@ -42,7 +42,7 @@ This dimension checks whether the AI remembers and meaningfully incorporates con
 2\. Earlier questions or statements
 3\. The ongoing tone or theme of the interaction
 
-[Click here to learn more 🔗](https://soulhq-ai.notion.site/Content-Relevance-Rating-with-Example-2132951e2f4c80d89955df59e398ec13 "Click here to learn more 🔗")
+[Click here to learn more 🔗](https://soulhq-ai.notion.site/Context-Awareness-Rating-with-Example-2132951e2f4c805ebb46d9327a3be4fb "Click here to learn more 🔗")
 
 ***
 
