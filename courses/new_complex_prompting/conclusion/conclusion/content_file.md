@@ -1,10 +1,15 @@
-## <span style="color:#364BC9">Conclusion</span>
+# <span style="color:#364BC9">Conclusion</span>
 
 <video src="${PRIVATE_COMPLEX_PROMPTING_VIDEO_10}" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; object-fit: cover;" controls="" controlslist="nodownload nofullscreen" style="width: 100%" />
 :::tip
 The closing segment reinforces the shift from basic to advanced prompting, emphasizing the use of complexity axes and the PRECISE framework to design layered, high-impact prompts. It highlights how complex prompting enables model stress-testing, supports SFT dataset creation, and surfaces valuable behavioural insights. The session concludes with a reminder that mastering these skills empowers practitioners to push AI boundaries through smarter, and complex prompt design.
 :::
 
-***
 
-##
+# <span style="color:#364BC9">We Value Your Feedback</span>
+
+Please take a moment to share your thoughts on this e-learning course: what worked well, what could be better, and how we can make the learning experience more effective for you.
+
+:::tip
+**Fill in the feedback form**: [https://forms.gle/4ZKmdx12eNtyr5oK7](https://forms.gle/4ZKmdx12eNtyr5oK7)&#x20;
+:::
