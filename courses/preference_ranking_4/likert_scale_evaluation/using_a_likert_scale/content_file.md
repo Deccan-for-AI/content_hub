@@ -23,5 +23,19 @@ Similar to well-defined criteria for individual rubrics discussed earlier, **pre
 | **Better**          | • Response A has 4 minor issues with overall response quality 'C' and Response B has 1 major issue with overall response quality 'D', Response A is slightly better than Response B. <br />• Response A has 2 major issues and Response B has 4 major issues -both would be rated 'E' in overall response quality, but Response A is slightly better than Response B. | • Response A has no issues with overall response quality 'A' and Response B has 4 minor issues with overall response quality 'C', Response A is better than Response B. <br />• Response A has few minor issues with overall response quality 'B' and Response B has one major issue with overall response quality 'D', Response A is better than Response B.                                                                                                                                                                                                             |
 | **Much Better**     | • If one response is entirely correct while the other has multiple (2 or more) major issues. <br />• Choose this when there is a significant quality gap between the two responses.                                                                                                                                                                                   | • Response A has three major issues with overall response quality 'E' and Response B has no issues with overall response quality 'A', Response B is much better than Response A.                                                                                                                                                                                                                                                                                                                                                                                          |
 | **About the Same**  | • Use this when both responses have an equal score on the overall response quality rubric due to the same number of major or minor issues. <br />• Use this when both responses are so poor/so good that selecting a winner is not justified.                                                                                                                         | • Response A has three minor issues with overall response quality 'C' and Response B has three minor issues as well with overall response quality 'C', Response A and B are about the same.                                                                                                                                                                                                                                                                                                                                                                               |
+<span style="color:#364BC9">Take a short quiz below and test your current understanding of Preference Ranking:</span>
 
+<div style="text-align: left;">
+  <a
+    href="https://assessment.soulhq.ai/?id=NjdkOTdlZDUyZmU0MzIzZWRjOWYwNGQ2"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="display: inline-block; padding: 8px 14px; background-color: #364BC9; 
+color: white; text-decoration: none; border-radius: 6px; font-size: 14px; 
+font-weight: bold; text-align: center; box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1); 
+transition: background-color 0.3s ease;"
+  >
+    Take the Quiz Here
+  </a>
+</div>
 ***

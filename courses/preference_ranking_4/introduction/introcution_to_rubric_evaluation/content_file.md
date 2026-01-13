@@ -20,7 +20,19 @@ R5. Writing Style
 
 Now let’s go through each rubric, their rating options and conditions in a little more detail.
 
-<a href="https://assessment.soulhq.ai/?id=NjdkMjZkNWUwZTBhMmE2ZmZmODRlZTcz" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 5px 10px; background-color: #364BC9; 
+
+<span style="color:#364BC9">Take a short quiz below and test your current understanding of Preference Ranking:</span>
+
+<div style="text-align: left;">
+  <a
+    href="https://assessment.soulhq.ai/?id=NjdkOTdlZDUyZmU0MzIzZWRjOWYwNGQ2"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="display: inline-block; padding: 8px 14px; background-color: #364BC9; 
 color: white; text-decoration: none; border-radius: 6px; font-size: 14px; 
 font-weight: bold; text-align: center; box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1); 
-transition: background-color 0.3s ease;"><p dir="ltr" data-lexical-text="true">Take the Quiz Here</p></a>
+transition: background-color 0.3s ease;"
+  >
+    Take the Quiz Here
+  </a>
+</div>
