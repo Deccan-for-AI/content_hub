@@ -87,3 +87,19 @@ Instead of sticking to one answer, the model generates multiple thought paths, e
 :::
 
 <img height="500" width="900" src="${PRIVATE_PROMPTING_101_11}" />
+
+<span style="color:#364BC9">Take a short quiz below and test your current understanding of Prompting Techniques:</span>
+
+<div style="text-align: left;">
+  <a
+    href="https://assessment.soulhq.ai/?id=NjdkOTdmYTg5MjdhMjY2YWVlMWI1NmE0"
+    target="_blank"
+    rel="noopener noreferrer"
+    style="display: inline-block; padding: 8px 14px; background-color: #364BC9; 
+color: white; text-decoration: none; border-radius: 6px; font-size: 14px; 
+font-weight: bold; text-align: center; box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1); 
+transition: background-color 0.3s ease;"
+  >
+    Take the Quiz Here
+  </a>
+</div>
